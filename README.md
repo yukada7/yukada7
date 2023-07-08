@@ -4,13 +4,22 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java, Spring, Vue, Nuxt, Mysql, Oracle
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me On Instagram <a href="https://instagram.com/alpox.dev">
+- 📫 How to reach me On Instagram 
+
+
+<a>
+  <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/hyeonhyeon_0224/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a> 
+<a href="mailto:yukada7@gmail.com">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=[https://www.instagram.com/hyeonhyeon_0224/]"
+        src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yukada7@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-<a href="https://www.instagram.com/hyeonhyeon_0224/"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoo-hyeonit%2Fhit-counter&count_bg=%233DC7C8&title_bg=%23555555&icon=&icon_color=%239C5757&title=Today&edge_flat=false"/></a>
-<br>
+
+
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukada7)](https://solved.ac/yukada7)<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoo-hyeonit&layout=compact"><br><br>
