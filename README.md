@@ -4,7 +4,11 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java, Spring, Vue, Nuxt, Mysql, Oracle
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me On Instagram
+- 📫 How to reach me On Instagram <a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=[https://instagram.com/alpox.dev/](https://www.instagram.com/hyeonhyeon_0224/)"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoo-hyeonit%2Fhit-counter&count_bg=%233DC7C8&title_bg=%23555555&icon=&icon_color=%239C5757&title=Today&edge_flat=false"/></a>
 <br>
