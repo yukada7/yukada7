@@ -4,7 +4,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java, Spring, Vue, Nuxt, Mysql, Oracle
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me On Instagram 
+- 📫 How to reach me 
 
 
 <a>
@@ -18,7 +18,6 @@
         src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yukada7@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
 
 
 [![Solved.ac
