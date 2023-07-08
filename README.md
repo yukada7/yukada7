@@ -9,7 +9,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoo-hyeonit%2Fhit-counter&count_bg=%233DC7C8&title_bg=%23555555&icon=&icon_color=%239C5757&title=Today&edge_flat=false"/></a>
 <br>
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})<br>
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yukada7)](https://solved.ac/yukada7)<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoo-hyeonit&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=yoo-hyeonit&show_icons=true">
 
