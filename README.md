@@ -7,8 +7,8 @@
 - 📫 How to reach me On Instagram
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikada7&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=mikada7&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukada7&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=yukada7&show_icons=true">
 
 <!---
 yoo-hyeonit/yoo-hyeonit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
