@@ -38,16 +38,18 @@
   <img src="https://img.shields.io/badge/React-skyblue?style=plastic&logo=react&logoColor=61DAFB"/>
   <!-- Html 로고 -->
   <img src="https://img.shields.io/badge/HTML5-orange?style=plastic&logo=html5&logoColor=white"/>
+  <!-- JavaScript 로고 -->
+  <img src="https://img.shields.io/badge/JavaScript-yello?style=plastic&logo=javascript&logoColor=F7DF1E"/>
   <br><br>
 
   Back End<br>
   <!-- Back End -->
-  <!-- JavaScript 로고 -->
-  <img src="https://img.shields.io/badge/JavaScript-yello?style=plastic&logo=javascript&logoColor=F7DF1E"/>
   <!-- Eclipse 로고 -->
   <img src="https://img.shields.io/badge/Eclipse-white?style=plastic&logo=eclipseide&logoColor=2C2255"/>
   <!-- Spring 로고 -->
   <img src="https://img.shields.io/badge/Spring-green?style=plastic&logo=spring&logoColor=6DB33F"/>
+  <!-- Springboot 로고 -->
+  <img src="https://img.shields.io/badge/Spring_Boot-green?style=plastic&logo=springboot&logoColor=6DB33F"/>
   <br><br>
 
   DB Tool<br>
