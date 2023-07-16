@@ -58,21 +58,22 @@
   <img src="https://img.shields.io/badge/Oracle-orange?style=plastic&logo=oracle&logoColor=F80000"/>
   <br><br>
   
+  Configuration Management Tool<br>
   <!-- 형상관리 도구 -->
   <!-- Git 로고 -->
   <img src="https://img.shields.io/badge/Git-gray?style=plastic&logo=git&logoColor=F05032"/>
   <!-- GitHub 로고 -->
-  <img src="https://img.shields.io/badge/Git-gray?style=plastic&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-gray?style=plastic&logo=github&logoColor=181717"/>
   <!-- Jenkins 로고 추후 삭제 예정인 소스라인 -->
   <img src="https://img.shields.io/badge/Jenkins-white?style=plastic&logo=jenkins&logoColor=D24939"/>
-  <br><br>
-
-  <!-- 일정관리 툴 -->
-  <!-- Jira 로고 -->
-  Team Collaboration Tool<br>
-  <img src="https://img.shields.io/badge/Jira-white?style=plastic&logo=jira&logoColor=0052CC"/>
   <!-- Bitbucket 로고 -->
   <img src="https://img.shields.io/badge/Bitbucket-white?style=plastic&logo=bitbucket&logoColor=0052CC"/>
+  <br><br>
+
+  Team Collaboration Tool<br>
+  <!-- 일정관리 툴 -->
+  <!-- Jira 로고 -->
+  <img src="https://img.shields.io/badge/Jira-white?style=plastic&logo=jira&logoColor=0052CC"/>
   <!-- Confluence 로고 -->
   <img src="https://img.shields.io/badge/Confluence-white?style=plastic&logo=confluence&logoColor=172B4D"/>
   <!-- Build 도구 -->
