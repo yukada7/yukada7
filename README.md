@@ -83,10 +83,11 @@
   <!-- Build 도구 -->
   <!-- Jenkins 로고 -->
   <!-- <img src="https://img.shields.io/badge/Jenkins-white?style=plastic&logo=jenkins&logoColor=D24939"/> -->
+  <hr>
   <br><br>
   
   <!-- 깃허브 커밋 언어 비율 위젯 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukada7&layout=compact&theme=dracula"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukada7&layout=compact&theme=dracula">
   <!-- 깃허브 커밋 언어 스타일 : dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
   
   <!-- 깃허브 스탯 위젯 -->
