@@ -47,9 +47,9 @@
   <!-- Eclipse 로고 -->
   <img src="https://img.shields.io/badge/Eclipse-white?style=plastic&logo=eclipseide&logoColor=2C2255"/>
   <!-- Spring 로고 -->
-  <img src="https://img.shields.io/badge/Spring-green?style=plastic&logo=spring&logoColor=6DB33F"/>
+  <img src="https://img.shields.io/badge/Spring-green?style=plastic&logo=spring&logoColor=white"/>
   <!-- Springboot 로고 -->
-  <img src="https://img.shields.io/badge/Spring_Boot-green?style=plastic&logo=springboot&logoColor=6DB33F"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-green?style=plastic&logo=springboot&logoColor=white"/>
   <br><br>
 
   DB Tool<br>
