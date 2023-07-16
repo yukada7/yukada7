@@ -22,6 +22,8 @@
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a><br>
   <hr>
+  <!-- vue.js 로고 -->
+  <img src="https://img.shields.io/badge/vue.js-green?style=plastic&logo=vuedotjs&logoColor=4FC08D"/>
   
   <!-- 깃허브 커밋 언어 비율 위젯 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukada7&layout=compact&theme=dracula"><br><br>
