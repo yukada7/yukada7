@@ -23,7 +23,7 @@
   </a><br>
   <hr>
   <!-- vue.js 로고 -->
-  <img src="https://img.shields.io/badge/-Vue.js-green?style=plastic&logo=vuedotjs&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Vue.js-green?style=plastic&logo=vuedotjs&logoColor=4FC08D"/>
 
   <!-- react 로고 -->
   <img src="https://img.shields.io/badge/React-skyblue?style=plastic&logo=react&logoColor=61DAFB"/>
