@@ -26,14 +26,17 @@
   <!-- 로고 예시 -->
   <!-- 로고 이미지와 색상을 고를 수 있는 페이지 링크 URL -->
   <!-- https://simpleicons.org/?q=react -->
-  <!-- <img src="https://img.shields.io/badge/입력 텍스트-텍스트 생상?style=plastic&logo=로고이미지&logoColor=로고색상"/> -->
+  <!--
+  <img src="https://img.shields.io/badge/입력 텍스트-텍스트 색상?style=plastic&logo=로고이미지&logoColor=로고색상"/>
+  -->
 
   <!-- Front End -->
   <!-- Vue.js 로고 -->
   <img src="https://img.shields.io/badge/Vue.js-green?style=plastic&logo=vuedotjs&logoColor=4FC08D"/>
-
   <!-- React 로고 -->
   <img src="https://img.shields.io/badge/React-skyblue?style=plastic&logo=react&logoColor=61DAFB"/>
+  <!-- Html 로고 -->
+  <img src="https://img.shields.io/badge/HTML5-orange?style=plastic&logo=html5&logoColor=E34F26"/>
 
   <!-- 형상관리 도구 -->
   <!-- Git 로고 -->
