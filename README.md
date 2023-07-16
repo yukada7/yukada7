@@ -1,5 +1,5 @@
 <!-- 메인 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Yoohyeon's%20Github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Yuka's%20Github&fontSize=90" />
 
 - 👋 Hi, I’m @yukada7
 - 👀 I’m interested in Web Development
@@ -26,7 +26,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukada7&layout=compact"><br><br>
 
 <!-- 깃허브 스탯 위젯 -->
-<img src="https://github-readme-stats.vercel.app/api?username=yukada7&show_icons=true">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=yukada7&show_icons=true"> -->
 
 <!-- 백준 티어 위젯 -->
 [![Solved.ac
