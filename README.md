@@ -36,7 +36,7 @@
   <!-- React 로고 -->
   <img src="https://img.shields.io/badge/React-skyblue?style=plastic&logo=react&logoColor=61DAFB"/>
   <!-- Html 로고 -->
-  <img src="https://img.shields.io/badge/HTML5-orange?style=plastic&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/HTML5-orange?style=plastic&logo=html5"/>
 
   <!-- 형상관리 도구 -->
   <!-- Git 로고 -->
