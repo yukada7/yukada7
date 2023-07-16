@@ -7,8 +7,6 @@
   🌱 I’m currently learning Java, Spring, Vue, Nuxt, Mysql, Oracle<br />
   💞️ I’m looking to collaborate on ...<br />
   📫 How to reach me<br />
-  <hr>
-  
   <!-- 인스타그램 뱃지 -->
   <a>
     <a href="https://instagram.com/hyeonhyeon_0224">
