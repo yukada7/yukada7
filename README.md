@@ -39,11 +39,6 @@
   <!-- Html 로고 -->
   <img src="https://img.shields.io/badge/HTML5-orange?style=plastic&logo=html5&logoColor=white"/>
   <br><br>
-  
-  <!-- 형상관리 도구 -->
-  <!-- Git 로고 -->
-  <img src="https://img.shields.io/badge/Git-gray?style=plastic&logo=git&logoColor=F05032"/>
-  <br><br>
 
   Back End<br>
   <!-- Back End -->
@@ -61,6 +56,11 @@
   <img src="https://img.shields.io/badge/Mysql-white?style=plastic&logo=mysql&logoColor=4479A1"/>
   <!-- Oracle 로고 -->
   <img src="https://img.shields.io/badge/Oracle-orange?style=plastic&logo=oracle&logoColor=F80000"/>
+  <br><br>
+  
+  <!-- 형상관리 도구 -->
+  <!-- Git 로고 -->
+  <img src="https://img.shields.io/badge/Git-gray?style=plastic&logo=git&logoColor=F05032"/>
   <br><br>
   
   <!-- Build 도구 -->
