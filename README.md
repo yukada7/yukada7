@@ -61,12 +61,15 @@
   <!-- 형상관리 도구 -->
   <!-- Git 로고 -->
   <img src="https://img.shields.io/badge/Git-gray?style=plastic&logo=git&logoColor=F05032"/>
+  <!-- Jenkins 로고 추후 삭제 예정인 소스라인 -->
+  <img src="https://img.shields.io/badge/Jenkins-white?style=plastic&logo=jenkins&logoColor=D24939"/>
   <br><br>
+  
   
   <!-- Build 도구 -->
   <!-- Jenkins 로고 -->
-  <img src="https://img.shields.io/badge/Jenkins-white?style=plastic&logo=jenkins&logoColor=D24939"/>
-  <br><br>
+  <!-- <img src="https://img.shields.io/badge/Jenkins-white?style=plastic&logo=jenkins&logoColor=D24939"/>
+  <br><br> -->
   
   <!-- 깃허브 커밋 언어 비율 위젯 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukada7&layout=compact&theme=dracula"><br><br>
