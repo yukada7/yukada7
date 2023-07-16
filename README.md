@@ -69,6 +69,7 @@
 
   <!-- 일정관리 툴 -->
   <!-- Jira 로고 -->
+  Team Collaboration Tool<br>
   <img src="https://img.shields.io/badge/Jira-white?style=plastic&logo=jira&logoColor=0052CC"/>
   <!-- Bitbucket 로고 -->
   <img src="https://img.shields.io/badge/Bitbucket-white?style=plastic&logo=bitbucket&logoColor=0052CC"/>
