@@ -26,7 +26,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukada7&layout=compact"><br><br>
 
 <!-- 깃허브 스탯 위젯 -->
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=yukada7&show_icons=true"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=yukada7&show_icons=true">
 
 <!-- 백준 티어 위젯 -->
 [![Solved.ac
