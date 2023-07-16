@@ -38,13 +38,12 @@
   <img src="https://img.shields.io/badge/React-skyblue?style=plastic&logo=react&logoColor=61DAFB"/>
   <!-- Html 로고 -->
   <img src="https://img.shields.io/badge/HTML5-orange?style=plastic&logo=html5&logoColor=white"/>
-  <br>
+  <br><br>
   
   <!-- 형상관리 도구 -->
   <!-- Git 로고 -->
   <img src="https://img.shields.io/badge/Git-gray?style=plastic&logo=git&logoColor=F05032"/>
-
-  <br>
+  <br><br>
 
   Back End<br>
   <!-- Back End -->
@@ -54,7 +53,7 @@
   <img src="https://img.shields.io/badge/Eclipse-white?style=plastic&logo=eclipseide&logoColor=2C2255"/>
   <!-- Spring 로고 -->
   <img src="https://img.shields.io/badge/Spring-green?style=plastic&logo=spring&logoColor=6DB33F"/>
-  <br>
+  <br><br>
 
   DB Tool<br>
   <!-- DataBase -->
@@ -62,12 +61,12 @@
   <img src="https://img.shields.io/badge/Mysql-white?style=plastic&logo=mysql&logoColor=4479A1"/>
   <!-- Oracle 로고 -->
   <img src="https://img.shields.io/badge/Oracle-orange?style=plastic&logo=oracle&logoColor=F80000"/>
-  <br>
+  <br><br>
   
   <!-- Build 도구 -->
   <!-- Jenkins 로고 -->
   <img src="https://img.shields.io/badge/Jenkins-white?style=plastic&logo=jenkins&logoColor=D24939"/>
-  <br>
+  <br><br>
   
   <!-- 깃허브 커밋 언어 비율 위젯 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukada7&layout=compact&theme=dracula"><br><br>
