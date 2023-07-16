@@ -27,12 +27,36 @@
   <!-- 로고 이미지와 색상을 고를 수 있는 페이지 링크 URL -->
   <!-- https://simpleicons.org/?q=react -->
   <!-- <img src="https://img.shields.io/badge/입력 텍스트-텍스트 생상?style=plastic&logo=로고이미지&logoColor=로고색상"/> -->
-  
-  <!-- vue.js 로고 -->
+
+  <!-- Front End -->
+  <!-- Vue.js 로고 -->
   <img src="https://img.shields.io/badge/Vue.js-green?style=plastic&logo=vuedotjs&logoColor=4FC08D"/>
 
-  <!-- react 로고 -->
+  <!-- React 로고 -->
   <img src="https://img.shields.io/badge/React-skyblue?style=plastic&logo=react&logoColor=61DAFB"/>
+
+  <!-- 형상관리 도구 -->
+  <!-- Git 로고 -->
+  <img src="https://img.shields.io/badge/Git-gray?style=plastic&logo=git&logoColor=F05032"/>
+  
+  <!-- Back End -->
+  <!-- JavaScript 로고 -->
+  <img src="https://img.shields.io/badge/JavaScript-yello?style=plastic&logo=javascript&logoColor=F7DF1E"/>
+  <!-- Eclipse 로고 -->
+  <img src="https://img.shields.io/badge/Eclipse-purple?style=plastic&logo=eclipseide&logoColor=2C2255"/>
+  <!-- Spring 로고 -->
+  <img src="https://img.shields.io/badge/Spring-green?style=plastic&logo=spring&logoColor=6DB33F"/>
+
+  <!-- DataBase -->
+  <!-- Mysql 로고 -->
+  <img src="https://img.shields.io/badge/Mysql-blue?style=plastic&logo=mysql&logoColor=4479A1"/>
+  <!-- Oracle 로고 -->
+  <img src="https://img.shields.io/badge/Oracle-orange?style=plastic&logo=oracle&logoColor=F80000"/>
+
+  <!-- Build 도구 -->
+  <!-- Jenkins 로고 -->
+  <img src="https://img.shields.io/badge/Jenkins-white?style=plastic&logo=jenkins&logoColor=D24939"/>
+
   
   <!-- 깃허브 커밋 언어 비율 위젯 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukada7&layout=compact&theme=dracula"><br><br>
