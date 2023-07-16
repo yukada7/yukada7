@@ -32,6 +32,7 @@
 
   <!-- Front End -->
   <!-- Vue.js 로고 -->
+  Front End 
   <img src="https://img.shields.io/badge/Vue.js-green?style=plastic&logo=vuedotjs&logoColor=4FC08D"/>
   <!-- React 로고 -->
   <img src="https://img.shields.io/badge/React-skyblue?style=plastic&logo=react&logoColor=61DAFB"/>
