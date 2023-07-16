@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 메인 배너 -->
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Yuka's%20Github&fontSize=90" 
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Yuka's%20Github&fontSize=90" />
   
   👋 Hi, I’m @yukada7<br />
   👀 I’m interested in Web, AI, IOT Development<br />
@@ -84,7 +84,6 @@
   <!-- Jenkins 로고 -->
   <!-- <img src="https://img.shields.io/badge/Jenkins-white?style=plastic&logo=jenkins&logoColor=D24939"/> -->
   <hr>
-  />
   <br><br>
   
   <!-- 백준 티어 위젯 -->
