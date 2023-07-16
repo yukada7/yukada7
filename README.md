@@ -61,15 +61,23 @@
   <!-- 형상관리 도구 -->
   <!-- Git 로고 -->
   <img src="https://img.shields.io/badge/Git-gray?style=plastic&logo=git&logoColor=F05032"/>
+  <!-- GitHub 로고 -->
+  <img src="https://img.shields.io/badge/Git-gray?style=plastic&logo=git&logoColor=F05032"/>
   <!-- Jenkins 로고 추후 삭제 예정인 소스라인 -->
   <img src="https://img.shields.io/badge/Jenkins-white?style=plastic&logo=jenkins&logoColor=D24939"/>
   <br><br>
-  
-  
+
+  <!-- 일정관리 툴 -->
+  <!-- Jira 로고 -->
+  <img src="https://img.shields.io/badge/Jira-white?style=plastic&logo=jira&logoColor=0052CC"/>
+  <!-- Bitbucket 로고 -->
+  <img src="https://img.shields.io/badge/Bitbucket-white?style=plastic&logo=bitbucket&logoColor=0052CC"/>
+  <!-- Confluence 로고 -->
+  <img src="https://img.shields.io/badge/Confluence-white?style=plastic&logo=confluence&logoColor=172B4D"/>
   <!-- Build 도구 -->
   <!-- Jenkins 로고 -->
-  <!-- <img src="https://img.shields.io/badge/Jenkins-white?style=plastic&logo=jenkins&logoColor=D24939"/>
-  <br><br> -->
+  <!-- <img src="https://img.shields.io/badge/Jenkins-white?style=plastic&logo=jenkins&logoColor=D24939"/> -->
+  <br><br>
   
   <!-- 깃허브 커밋 언어 비율 위젯 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukada7&layout=compact&theme=dracula"><br><br>
