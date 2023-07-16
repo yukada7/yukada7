@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/Spring_Boot-green?style=plastic&logo=springboot&logoColor=white"/>
   <br><br>
 
-  DB Tool<br>
+  Data Base<br>
   <!-- DataBase -->
   <!-- Mysql 로고 -->
   <img src="https://img.shields.io/badge/Mysql-white?style=plastic&logo=mysql&logoColor=4479A1"/>
@@ -70,6 +70,8 @@
   <img src="https://img.shields.io/badge/Jenkins-white?style=plastic&logo=jenkins&logoColor=D24939"/>
   <!-- Bitbucket 로고 -->
   <img src="https://img.shields.io/badge/Bitbucket-white?style=plastic&logo=bitbucket&logoColor=0052CC"/>
+  <!-- Sourcetree -->
+  <img src="https://img.shields.io/badge/Sourcetree-white?style=plastic&logo=sourcetree&logoColor=0052CC"/>
   <br><br>
 
   Team Collaboration Tool<br>
