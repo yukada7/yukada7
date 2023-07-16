@@ -22,6 +22,7 @@
           src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yukada7@gmail.com"
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a><br>
+  <hr>
   
   <!-- 깃허브 커밋 언어 비율 위젯 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukada7&layout=compact&theme=dracula"><br><br>
