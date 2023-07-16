@@ -1,13 +1,14 @@
-<!-- 메인 배너 -->
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Yuka's%20Github&fontSize=90" />
-
-- 👋 Hi, I’m @yukada7
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java, Spring, Vue, Nuxt, Mysql, Oracle
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
-
 <div align="center">
+  <!-- 메인 배너 -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Yuka's%20Github&fontSize=90" />
+  
+  - 👋 Hi, I’m @yukada7
+  - 👀 I’m interested in Web Development
+  - 🌱 I’m currently learning Java, Spring, Vue, Nuxt, Mysql, Oracle
+  - 💞️ I’m looking to collaborate on ...
+  - 📫 How to reach me 
+  <hr>
+  
   <!-- 인스타그램 뱃지 -->
   <a>
     <a href="https://instagram.com/hyeonhyeon_0224">
