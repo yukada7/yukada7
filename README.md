@@ -49,7 +49,7 @@
 
   <!-- DataBase -->
   <!-- Mysql 로고 -->
-  <img src="https://img.shields.io/badge/Mysql-blue?style=plastic&logo=mysql&logoColor=4479A1"/>
+  <img src="https://img.shields.io/badge/Mysql-white?style=plastic&logo=mysql&logoColor=4479A1"/>
   <!-- Oracle 로고 -->
   <img src="https://img.shields.io/badge/Oracle-orange?style=plastic&logo=oracle&logoColor=F80000"/>
 
