@@ -2,11 +2,11 @@
   <!-- 메인 배너 -->
   <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Yuka's%20Github&fontSize=90" />
   
-  👋 Hi, I’m @yukada7
-  👀 I’m interested in Web Development
-  🌱 I’m currently learning Java, Spring, Vue, Nuxt, Mysql, Oracle
-  💞️ I’m looking to collaborate on ...
-  📫 How to reach me 
+  👋 Hi, I’m @yukada7<br />
+  👀 I’m interested in Web Development<br />
+  🌱 I’m currently learning Java, Spring, Vue, Nuxt, Mysql, Oracle<br />
+  💞️ I’m looking to collaborate on ...<br />
+  📫 How to reach me<br />
   <hr>
   
   <!-- 인스타그램 뱃지 -->
