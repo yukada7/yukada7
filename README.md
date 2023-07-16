@@ -43,7 +43,7 @@
   <!-- JavaScript 로고 -->
   <img src="https://img.shields.io/badge/JavaScript-yello?style=plastic&logo=javascript&logoColor=F7DF1E"/>
   <!-- Eclipse 로고 -->
-  <img src="https://img.shields.io/badge/Eclipse-purple?style=plastic&logo=eclipseide&logoColor=2C2255"/>
+  <img src="https://img.shields.io/badge/Eclipse-white?style=plastic&logo=eclipseide&logoColor=2C2255"/>
   <!-- Spring 로고 -->
   <img src="https://img.shields.io/badge/Spring-green?style=plastic&logo=spring&logoColor=6DB33F"/>
 
