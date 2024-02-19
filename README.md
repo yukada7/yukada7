@@ -14,13 +14,14 @@
   <!-- 💞️ 21년 8월부터 23년 6월까지 LG CNS 프로젝트에 참여하였고, 현재는 SK C&C에 파견되어 일하고 있습니다.<br /> -->
   📫 연락은 인스타나 Gmail로 연락주시면 확인 후 답변 드리겠습니다. 감사합니다.<br />
 
-  <div>2021. 08. 01 ~ 2022. 05. 29 LG UPLUS 차세대 SI Project 참여<br /></div>
-  2022. 06. 01 ~ 2022. 07. 31 LG UPLUS 차세대 SM Project 참여<br />
-  2022. 08. 01 ~ 2022. 09. 30 LG UPLUS 홈페이지 웹접근성 Project 지원<br />
-  2022. 10. 04 ~ 2023. 03. 31 LG UPLUS SNS 로그인 등 개선 Project 참여<br />
-  2023. 04. 03 ~ 2023. 06. 30 LG UPLUS 로밍 개편 Project 참여<br />
-  2023. 07. 03 ~ 2023. 12. 29 현대 차세대몰 구축 Project 참여<br />
-  2024. 01. 01 ~ ing 자사 결함 수정 및 고도화 Project 진행중<br />
+  <div>2021. 08. 01 ~ 2022. 05. 29 LG UPLUS 차세대 SI Project 참여(Spring Boot, Vue, Next js)<br /></div>
+  2022. 06. 01 ~ 2022. 07. 31 LG UPLUS 차세대 SM Project 참여(Spring Boot, Vue, Next js)<br />
+  2022. 08. 01 ~ 2022. 09. 30 LG UPLUS 홈페이지 웹접근성 Project 지원(Spring Boot, Vue, Next js)<br />
+  2022. 10. 04 ~ 2023. 03. 31 LG UPLUS SNS 로그인 등 개선 Project 참여(Spring Boot, Vue, Next js)<br />
+  2023. 04. 03 ~ 2023. 06. 30 LG UPLUS 로밍 개편 Project 참여(Spring Boot, Vue, Next js)<br />
+  2023. 07. 03 ~ 2023. 12. 29 현대 차세대몰 구축 Project 프론트 개발 참여(React, Nuxt)<br />
+  2024. 01. 01 ~ 2024. 02. 16 자사 결함 수정 및 고도화 Project 참여(Spring, JSP)<br />
+  2024. 02. 19 ~ ing 아산 다이소몰 SM 진행중
   
   <!-- 인스타그램 뱃지 -->
   <a>
