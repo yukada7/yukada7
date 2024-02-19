@@ -21,7 +21,7 @@
   2023. 04. 03 ~ 2023. 06. 30 LG UPLUS 로밍 개편 Project 참여(Spring Boot, Vue, Next js)<br />
   2023. 07. 03 ~ 2023. 12. 29 현대 차세대몰 구축 Project 프론트 개발 참여(React, Nuxt)<br />
   2024. 01. 01 ~ 2024. 02. 16 자사 결함 수정 및 고도화 Project 참여(Spring, JSP)<br />
-  2024. 02. 19 ~ ing 아산 다이소몰 SM 진행중
+  2024. 02. 19 ~ ing 아산 다이소몰 SM 진행중<br />
   
   <!-- 인스타그램 뱃지 -->
   <a>
