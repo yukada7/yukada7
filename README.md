@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- 메인 배너 -->  
+  <!-- 메인 배너 --> 
   <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Yuka's%20Github&fontSize=90" />
   
   👋 Hi, I’m @yukada7<br />   
